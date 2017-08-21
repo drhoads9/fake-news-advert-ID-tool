@@ -1,0 +1,19 @@
+Rough Requirements of tool:
+
+-Host webapp/tool online - find place to do it
+
+-Scrape advertising info from website metadata (if possible) - Scrapey?
+  -If scraping this info is not possible/accurate/etc, look into OCR (optical character recognition) 
+   for identifying advertisers on Fake News Websites
+  -Included info:
+      -What advertisers are buying ads on sites
+      -How many ads (per day, etc) are being shown on sites - way to count engagements
+      -What website/article/etc is ad being shown on
+      -(Lower Priority) - what company bought adspace to sell to ad-buying companies (middlemen)
+      
+-Store/structure this data somehow so it's easily analyzable
+
+-Build tool/dashboard that displays/summarizes this info
+
+-Find contact info of companies that are advertising on these sites - find ways to contact companies
+ and publicize their adverts
